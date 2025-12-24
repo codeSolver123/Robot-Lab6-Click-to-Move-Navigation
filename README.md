@@ -1,7 +1,6 @@
-# Robot Lab 6 – Click-to-Move Autonomous Navigation
+# Robot – Click-to-Move Autonomous Navigation
 
 **Team Members:** Alex Anderson, Trenton Pham, Rafael Copado  
-**Course:** CS 425 Robotics  
 
 This project implements click-based autonomous navigation, allowing a user to select a
 destination directly on the robot’s camera feed. The robot then autonomously drives
